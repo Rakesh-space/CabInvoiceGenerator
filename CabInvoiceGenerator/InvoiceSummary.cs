@@ -12,11 +12,11 @@ namespace CabInvoiceGenerator
         private double totalFare;
         private double averageFare;
 
-        public InvoiceSummary(int numberOfRides, double totalFare)
+        public InvoiceSummary(int numberOfRides, double totalFare)  //here Enhanced Invoice
         {
-            this.numberOfRides = numberOfRides;
-            this.totalFare = totalFare;
-            this.averageFare = totalFare / numberOfRides;
+            this.numberOfRides = numberOfRides; //here no of ride
+            this.totalFare = totalFare;       //here tatal fare
+            this.averageFare = totalFare / numberOfRides;  //here calculate avarge
         }
 
         public override bool Equals(object obj)
