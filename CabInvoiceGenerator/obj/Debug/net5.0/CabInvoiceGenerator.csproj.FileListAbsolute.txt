@@ -1,0 +1,16 @@
+C:\Users\Rakesh\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net5.0\CabInvoiceGenerator.exe
+C:\Users\Rakesh\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net5.0\CabInvoiceGenerator.deps.json
+C:\Users\Rakesh\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net5.0\CabInvoiceGenerator.runtimeconfig.json
+C:\Users\Rakesh\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net5.0\CabInvoiceGenerator.runtimeconfig.dev.json
+C:\Users\Rakesh\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net5.0\CabInvoiceGenerator.dll
+C:\Users\Rakesh\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net5.0\ref\CabInvoiceGenerator.dll
+C:\Users\Rakesh\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net5.0\CabInvoiceGenerator.pdb
+C:\Users\Rakesh\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net5.0\CabInvoiceGenerator.csproj.AssemblyReference.cache
+C:\Users\Rakesh\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net5.0\CabInvoiceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rakesh\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net5.0\CabInvoiceGenerator.AssemblyInfoInputs.cache
+C:\Users\Rakesh\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net5.0\CabInvoiceGenerator.AssemblyInfo.cs
+C:\Users\Rakesh\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net5.0\CabInvoiceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Rakesh\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net5.0\CabInvoiceGenerator.dll
+C:\Users\Rakesh\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net5.0\ref\CabInvoiceGenerator.dll
+C:\Users\Rakesh\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net5.0\CabInvoiceGenerator.pdb
+C:\Users\Rakesh\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net5.0\CabInvoiceGenerator.genruntimeconfig.cache
