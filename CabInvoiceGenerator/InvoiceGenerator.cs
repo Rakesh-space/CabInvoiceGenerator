@@ -65,7 +65,7 @@ namespace CabInvoiceGeneratorProject
             return Math.Max(totalFare, MINIMUM_FARE);
         }
 
-        public double CalculateFare(Ride[] rides)
+        public InvoiceSummary CalculateFare(Ride[] rides)
         {
            // Ride[] rides = new Ride[10];  //for cabInvoice of size of 10 cabs
             double totalFare = 0;
@@ -84,7 +84,7 @@ namespace CabInvoiceGeneratorProject
 
                 }
             }
-            return totalFare;
+            return new InvoiceSummary(rides.Length, totalFare);  //here return InvoiceSummery
         }
 
     }

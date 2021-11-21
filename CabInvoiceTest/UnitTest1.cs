@@ -33,7 +33,7 @@ namespace CabInvoiceTest
                 Ride[] rides = { new Ride(2.0, 5), new Ride(0.1, 1) };
                 InvoiceSummary expected = new InvoiceSummary(rides.Length, 60);
 
-                double actual = invoiceGenerator.CalculateFare(rides);
+                InvoiceSummary actual = invoiceGenerator.CalculateFare(rides);
                 Assert.AreEqual(actual, expected);
 
             }
