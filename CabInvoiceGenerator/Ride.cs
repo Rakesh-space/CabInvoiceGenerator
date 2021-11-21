@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CabInvoiceGenerator
 {
-    class Ride
+    public class Ride
     {
         public double distance;
         public int time;
