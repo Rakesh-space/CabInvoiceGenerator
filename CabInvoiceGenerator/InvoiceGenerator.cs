@@ -9,28 +9,28 @@ namespace CabInvoiceGeneratorProject
 {
     public class InvoiceGenerator
     {
-        RideType rideType;
+        RideType rideType;  //here decleare RiteType variable
 
         private readonly double MINIMUM_COST_PER_KM;
         private readonly int COST_PER_TIME;
         private readonly double MINIMUM_FARE;
 
-        public InvoiceGenerator(RideType rideType)
+        public InvoiceGenerator(RideType rideType)  //here use paramatrized Constructor
         {
             this.rideType = rideType;
             try
             {
                 if (this.rideType.Equals(RideType.NORMAL)) //for NORMAL cabs ride
                 {
-                    this.MINIMUM_COST_PER_KM = 10;
-                    this.COST_PER_TIME = 1;
-                    this.MINIMUM_FARE = 5;
+                    this.MINIMUM_COST_PER_KM = 10;  //here Normal ride cost=10
+                    this.COST_PER_TIME = 1; 
+                    this.MINIMUM_FARE = 5;      //here Normal minimum ride cost=5
                 }
                 if (this.rideType.Equals(RideType.PREMIUM)) //for PREMIUM cabs ride
                 {
-                    this.MINIMUM_COST_PER_KM = 15;
+                    this.MINIMUM_COST_PER_KM = 15; //here Premium ride cost=15
                     this.COST_PER_TIME = 2;
-                    this.MINIMUM_FARE = 20;
+                    this.MINIMUM_FARE = 20;    //here Premium minimum ride cost=20
                 }
             }
             catch (CabInvoiceException)  //here custome exception " INVALID_RIDETYPE "
